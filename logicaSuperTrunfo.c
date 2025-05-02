@@ -1,6 +1,9 @@
 #include <stdio.h>
 
 int main() {
+
+    printf("Novo commit\n");
+
     // Variáveis da Carta 1
     char estado1[50], codigo1[4], nomecidade1[50];
     int populacao1, pontosturisticos1;
